@@ -1,0 +1,2 @@
+include ':app', ':displayname'
+rootProject.name='My Application'
