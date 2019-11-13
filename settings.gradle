@@ -1,2 +1,2 @@
-include ':app', ':displayname'
+include ':app', ':displayname', ':multitasks'
 rootProject.name='My Application'

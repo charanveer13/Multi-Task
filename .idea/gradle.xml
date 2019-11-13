@@ -10,6 +10,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/displayname" />
+            <option value="$PROJECT_DIR$/multitasks" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
