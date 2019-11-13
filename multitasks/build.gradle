@@ -40,16 +40,16 @@ ext {
     bintrayRepo = 'Multi_Tasks'
     bintrayName = 'Multi_Tasks'
 
-    publishedGroupId = 'com.example.multitasks'
+    publishedGroupId = 'com.smart.multitask'
     libraryName = 'Multi_Tasks'
-    artifact = 'Tasks'
+    artifact = 'tasks'
 
     libraryDescription = 'this library used for session management'
 
-    siteUrl = 'https://github.com/charanveer13/dummyLibrary'
-    gitUrl = 'https://github.com/charanveer13/dummyLibrary.git'
+    siteUrl = 'https://github.com/charanveer13/Multi-Task'
+    gitUrl = 'https://github.com/charanveer13/Multi-Task.git'
 
-    libraryVersion = '1.0.0'
+    libraryVersion = '1.0.7'
 
     developerId = 'charanveerg'
     developerName = 'charanveer Signh'
